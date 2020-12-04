@@ -133,7 +133,7 @@ button_card_templates:
           name: null
           state: null
         value: 'off'
-title: Chapel House
+title: Test
 views:
   - badges: []
     cards:
@@ -179,3 +179,4 @@ views:
                   - sensor.girlsroom_target_temp
                   - sensor.girls_room_heating
                 type: 'custom:button-card'
+        type: vertical-stack
